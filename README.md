@@ -1,11 +1,11 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm MD Ramjan Khan 👋</h1>
+<h1 align="center">Hi, I'm MD RAMJAN KHAN 👋</h1>
 <p align="center">
   Builder of web, mobile, and ML products — focused on clean architecture, velocity, and impact.
 </p>
 
 <p align="center">
-  <a href="mailto:md.ramjankhan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-md.ramjankhan.dev%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:rk9032929@gmail.com"><img src="https://img.shields.io/badge/Email-rk9032929%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <img src="https://img.shields.io/badge/Location-Kolkata,%20India-0ea5e9?style=for-the-badge&logo=google-maps" />
   <img src="https://komarev.com/ghpvc/?username=mdramjankhan&style=for-the-badge&color=brightgreen&label=Profile+Views" />
 </p>
@@ -165,5 +165,5 @@ IST windows: 00:00–11:59 and 12:00–23:59
 
 ## 📫 Contact
 
-- **Email:** md.ramjankhan.dev@gmail.com  
+- **Email:** rk9032929@gmail.com  
 - **Open to:** internships, freelance projects, and collaborations
