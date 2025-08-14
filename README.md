@@ -80,8 +80,8 @@
 ## 🎓 Education
 
 - **B.Tech, CSE** — Swami Vivekananda University, Kolkata (2022–2026) — **CGPA 9.03**  
-- **Higher Secondary (WBCHSE)** — Raiganj Mahamaya High School — **88.6% (2022)**  
-- **Secondary (WBBSE)** — Raiganj Mahamaya High School — **80.4% (2020)**
+- **Higher Secondary (WBCHSE)** — Raigaon Mahamaya High School — **88.6% (2022)**  
+- **Secondary (WBBSE)** — Raigaon Mahamaya High School — **80.4% (2020)**
 
 ---
 
@@ -112,7 +112,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdramjankhan&bg_color=0a0f1f&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" />
 </p>
 
-> If any card shows “Something went wrong”, it’s usually a temporary rate-limit. Reload later; your data remains intact.
+<!-- > If any card shows “Something went wrong”, it’s usually a temporary rate-limit. Reload later; your data remains intact. -->
 
 ---
 
