@@ -80,8 +80,8 @@
 ## 🎓 Education
 
 - **B.Tech, CSE** — Swami Vivekananda University, Kolkata (2022–2026) — **CGPA 9.03**  
-- **Higher Secondary (WBCHSE)** — Raigaon Mahamaya High School — **88.6% (2022)**  
-- **Secondary (WBBSE)** — Raigaon Mahamaya High School — **80.4% (2020)**
+- **Higher Secondary (WBCHSE)** — Rajgaon Mahamaya High School — **88.6% (2022)**  
+- **Secondary (WBBSE)** — Rajgaon Mahamaya High School — **80.4% (2020)**
 
 ---
 
