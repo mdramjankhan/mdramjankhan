@@ -1,0 +1,33 @@
+name: Update Commit Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Install Dependencies
+        run: npm install node-fetch@2
+
+      - name: Run Commit Stats Script
+        run: node scripts/updateCommits.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: mdramjankhan
+          TZ: Asia/Kolkata
+
+      - name: Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update daily commit stats"
