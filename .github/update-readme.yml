@@ -1,0 +1,46 @@
+name: Update README (Daily & 12h Activity)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  push:
+    paths:
+      - .github/workflows/update-readme.yml
+      - scripts/update_readme.mjs
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
+      GITHUB_LOGIN: ramjankhan
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run updater
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node --version
+          node scripts/update_readme.mjs
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add README.md
+            git commit -m "chore: update activity tables [skip ci]"
+            git push
+          else
+            echo "No changes."
+          fi
