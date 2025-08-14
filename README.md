@@ -117,22 +117,23 @@
 ---
 
 ## ⏱️ Daily Git Updates (Auto)
+Timezone: Asia/Kolkata (IST)
 
-> **Timezone:** Asia/Kolkata (IST)
-
-<!--START_SECTION:daily_activity-->
-(loading… first run will fill this table)
-<!--END_SECTION:daily_activity-->
-
----
+<!--START_SECTION:commits-->
+| Date       | 00:00–11:59 | 12:00–23:59 |
+|------------|-------------|-------------|
+| 2025-08-14 | 4 commits   | 3 commits   |
+<!--END_SECTION:commits-->
 
 ## 🕒 Last 24h Commits (per 12-hour window, Auto)
+IST windows: 00:00–11:59 and 12:00–23:59
 
-> **IST windows:** 00:00–11:59 and 12:00–23:59
+<!--START_SECTION:dailycommits-->
+| Date       | Morning     | Evening     |
+|------------|-------------|-------------|
+| 2025-08-14 | 4 commits   | 3 commits   |
+<!--END_SECTION:dailycommits-->
 
-<!--START_SECTION:halfday_activity-->
-(loading… first run will fill this table)
-<!--END_SECTION:halfday_activity-->
 
 ---
 
