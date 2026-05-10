@@ -1,11 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm MD RAMJAN KHAN 👋</h1>
 <p align="center">
-  Builder of web, mobile, and ML products — focused on clean architecture, velocity, and impact.
+  Full-Stack & Mobile Application Developer (MERN • Flutter • FastAPI • AI/LLM)
 </p>
 
 <p align="center">
   <a href="mailto:rk9032929@gmail.com"><img src="https://img.shields.io/badge/Email-rk9032929%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://mdramjankhan.in"><img src="https://img.shields.io/badge/Portfolio-mdramjankhan.in-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mdramjankhan"><img src="https://img.shields.io/badge/LinkedIn-mdramjankhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Kolkata,%20India-0ea5e9?style=for-the-badge&logo=google-maps" />
   <img src="https://komarev.com/ghpvc/?username=mdramjankhan&style=for-the-badge&color=brightgreen&label=Profile+Views" />
 </p>
@@ -16,30 +18,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&pause=600&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Mobile+(Flutter)+%7C+AI%2FML+Enthusiast;Clean+code+.+Solid+architecture+.+Real+impact" />
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&pause=600&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Mobile+Application+Developer;MERN+%7C+Flutter+%7C+FastAPI+%7C+LangChain+%2F+LLMs;Ship+clean+APIs+and+production-ready+apps" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-- Strong in **MERN**, **Flutter**, **Firebase**, and data-driven features  
-- Comfortable across the stack: **UI/UX**, **APIs**, **databases**, **deployments**  
-- Passionate about **AI-assisted products** and **practical ML**  
-- **B.Tech in CSE**, Swami Vivekananda University (Aug 2022–Aug 2026), **CGPA 9.03**  
-- **Research:** Co-authored a paper on AI-based task assistants (**25+ citations**)  
-- **Certifications:** A+ certified in **Python Programming (2023)**  
+Full-Stack and Mobile Application Developer with hands-on experience building scalable web and mobile apps using the **MERN stack**, **Flutter**, and **FastAPI**. Experienced in designing **RESTful APIs**, integrating **AI/LLM services** (Gemini, DeepSeek, ChatGPT) via **LangChain**, and deploying production-grade applications.
+
+- **IBM Certified** Full Stack Application Development (2025)
+- **B.Tech (CSE)** — Swami Vivekananda University (Aug 2022 – Aug 2026, Expected) — **CGPA 8.69/10**
 - **Languages:** English (Fluent), Bengali (Native), Hindi (Proficient)
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Programming:** C, Java, Python, Dart, JavaScript, Kotlin  
-- **Web:** React.js, Next.js, Node.js, Express.js, MongoDB (MERN)  
-- **Mobile:** Flutter (Android & iOS), Native Android  
-- **Databases:** MongoDB, MySQL, PostgreSQL, Firebase  
-- **Tools:** Git, VS Code, IntelliJ IDEA, Android Studio, Anaconda, Eclipse, PyCharm
+- **Languages:** JavaScript, TypeScript, Python, Dart, Java, C
+- **Frontend:** React.js, Next.js, HTML5, CSS3
+- **Backend:** Node.js, Express.js, FastAPI
+- **Mobile:** Flutter, React Native
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase Firestore, Supabase
+- **AI/ML:** LangChain, OpenAI API, Gemini API, DeepSeek API, Scikit-learn, NumPy, Pandas
+- **Tools:** Git, GitHub, Linux, VS Code, Android Studio, Firebase, Cloudinary
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
@@ -49,6 +51,8 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 </p>
@@ -57,39 +61,43 @@
 
 ## 🚀 What I’m Building
 
-- Production-grade **Next.js** apps with secure APIs and server actions  
-- **Flutter** apps with real-time features (Firebase Auth, Firestore, FCM)  
-- Practical ML: **CNN** image models, **NLP** text classifiers, metadata-aware pipelines
+- **Next.js / React** web apps with secure REST APIs (JWT auth, file uploads)
+- **Flutter / React Native** apps with real-time features and payments
+- **AI-powered features** with LangChain + LLM APIs (session memory, model switching)
 
 ---
 
 ## 🗂 Featured Projects
 
-- **WhatsApp & Facebook UI Clones** (Flutter): Pixel-perfect UIs, navigation, dark mode, state management  
-- **Real-time Chat** (Flutter + Firebase): Auth, presence, typing indicators, push notifications  
-- **Weather Now** (Flutter): Live geolocation weather with caching & offline behavior  
-- **CashAds:** Earn-by-watching-ads concept app with reward ledger and anti-fraud checks  
-- **E-commerce + Blog** (MERN): SSR/SSG, role-based access, cart/checkout flows  
-- **AI Chat Apps:** DeepSeek, ChatGPT & Gemini APIs with cost tracking and safe-prompting  
-- **HireMe Job Portal:** IBM SkillsBuild capstone (Next.js + Node.js) with admin dashboard  
-- **CNN Image Recognizer:** Lightweight training + inference service  
-- **Fake News Classifier:** NLP + metadata with explainability
+- **HireMe — Full-Stack Job Portal** (Next.js, Node.js/Express, MongoDB, Cloudinary): job search/filter/apply + employer posting & management; JWT auth APIs; resume/document upload via Cloudinary.
+- **SquadArena — Esports Tournament Platform** (Flutter, Firebase, Node.js, Razorpay): tournament discovery/registration; secure payments; real-time leaderboards + in-app group chat.
+- **AI Chat Application** (MERN, LangChain, OpenAI/Gemini): multi-LLM chat with session-persistent context; conversation management APIs; responsive UI with streaming responses.
+- **Image Background Remover Web App** (FastAPI, React): image upload + processing; real-time preview; one-click download.
+- **Stock Price Prediction Model** (Python, Scikit-learn, Pandas, Matplotlib): regression on historical stock data with preprocessing/feature engineering; performance visualization.
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech, CSE** — Swami Vivekananda University, Kolkata (2022–2026) — **CGPA 9.03**  
-- **Higher Secondary (WBCHSE)** — Rajgaon Mahamaya High School — **88.6% (2022)**  
-- **Secondary (WBBSE)** — Rajgaon Mahamaya High School — **80.4% (2020)**
+- **Bachelor of Technology — Computer Science Engineering** — Swami Vivekananda University, Kolkata (Aug 2022 – Aug 2026, Expected) — **CGPA 8.69/10**
+- **Higher Secondary Examination (WBCHSE)** — Rajgaon Mahamaya High School (2022) — **88.60%**
+- **Secondary Examination (WBBSE)** — Rajgaon Mahamaya High School (2020) — **80.42%**
 
 ---
 
-## 🏆 Achievements
+## 🏅 Certifications & Achievements
 
-- International publication with **25+ citations** on AI-based task assistants  
-- Built multiple full-stack & mobile apps with production-ready patterns  
-- Consistent Git contributor with focus on readable commits and CI-friendly structure
+- **IBM Certified — Full Stack Application Development** (2025)
+- **British Council — Workplace Fundamentals** (2024)
+- **Flutter & Dart — Complete App Development Course** (Udemy)
+- **React Native — Mobile App Development** (Udemy)
+- **Python Programming Certification** — Grade A+ (2023)
+
+---
+
+## 📝 Publication
+
+- **AI-Based Task Assistant** — International Journal (2023)
 
 ---
 
@@ -116,34 +124,35 @@
 
 ---
 
-## ⏱️ Daily Git Updates (Auto)
+## ⏱️ Weekly Activity (Auto)
 Timezone: Asia/Kolkata (IST)
 
-<!--START_SECTION:commits-->
-| Date       | 00:00–11:59 | 12:00–23:59 |
-|------------|-------------|-------------|
-| 2025-08-14 | 4 commits   | 3 commits   |
-<!--END_SECTION:commits-->
+<!--START_SECTION:daily_activity-->
+| Date | Commits | PRs | Issues | Notes |
+|------|---------|-----|--------|-------|
+| - | - | - | - | - |
+<!--END_SECTION:daily_activity-->
 
-## 🕒 Last 24h Commits (per 12-hour window, Auto)
+## 🕒 Last 24h Activity (Auto)
 IST windows: 00:00–11:59 and 12:00–23:59
 
-<!--START_SECTION:dailycommits-->
-| Date       | Morning     | Evening     |
-|------------|-------------|-------------|
-| 2025-08-14 | 4 commits   | 3 commits   |
-<!--END_SECTION:dailycommits-->
+<!--START_SECTION:halfday_activity-->
+| Window (IST) | Commits | Activity |
+|--------------|---------|----------|
+| 00:00–11:59  | - | - |
+| 12:00–23:59  | - | - |
+<!--END_SECTION:halfday_activity-->
 
 
 ---
 
 ## 📌 Suggested Pinned Repositories
 
-- `real-time-chat-flutter` — Firebase Auth, Firestore, FCM, Cloud Functions  
-- `nextjs-ecommerce-mern` — Next.js + Node/Express API + MongoDB  
-- `ai-chat-hub` — DeepSeek, ChatGPT & Gemini with cost guardrails  
-- `fake-news-classifier` — NLP + metadata model with explainable outputs  
-- `cashads` — Rewarded-ads concept with fraud-prevention ideas
+- HireMe (Job portal) — Next.js + Node/Express + MongoDB + Cloudinary
+- SquadArena (Esports tournaments) — Flutter + Firebase + Razorpay
+- AI Chat Application — MERN + LangChain + OpenAI/Gemini/DeepSeek
+- Image Background Remover — FastAPI + React
+- Stock Price Prediction — Python + Scikit-learn
 
 ---
 
@@ -155,15 +164,18 @@ IST windows: 00:00–11:59 and 12:00–23:59
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- Publish a cross-platform app to the Play Store  
-- Contribute to an open-source Next.js or Flutter library  
-- Ship an NLP mini-service with an explainability dashboard
+- Ship and iterate on production-ready web/mobile projects
+- Contribute to open source (Next.js / Flutter / FastAPI ecosystem)
+- Build more AI-assisted features with strong UX + safe prompting
 
 ---
 
 ## 📫 Contact
 
-- **Email:** rk9032929@gmail.com  
+- **Phone:** +91 78738 57822
+- **Email:** rk9032929@gmail.com
+- **LinkedIn:** https://linkedin.com/in/mdramjankhan
+- **Portfolio:** https://mdramjankhan.in
 - **Open to:** internships, freelance projects, and collaborations

@@ -1,13 +1,14 @@
-name: Update README (Daily & 12h Activity)
+name: Update README (Weekly & 12h Activity)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
+    - cron: "0 */6 * * *" # every 6 hours
   push:
     paths:
       - .github/workflows/update-readme.yml
       - scripts/update_readme.mjs
+      - README.md
 
 permissions:
   contents: write
@@ -17,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: Asia/Kolkata
-      GITHUB_LOGIN: ramjankhan
+      GITHUB_LOGIN: ${{ github.repository_owner }}
     steps:
       - uses: actions/checkout@v4
 
